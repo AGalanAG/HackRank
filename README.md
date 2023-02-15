@@ -1,2 +1,2 @@
-# HackRank
-## Ejercicios de la plataforma HackRank 
+# Hackerrank
+## Ejercicios de la plataforma Hackerrank
